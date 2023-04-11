@@ -62,7 +62,7 @@
             "description": "Create, Read, Update and delete todos",
             "github_url": "https://github.com/Osorabrian/Todo-React-Frontend",
             "image_url": "https://gcdnb.pbrd.co/images/Cf2lmO6D8QaF.png?o=1",
-            "website_url" : "todo-react-frontend-sable.vercel.app"
+            "website_url" : "https://todo-react-frontend-sable.vercel.app/"
         }
     ]
 }
