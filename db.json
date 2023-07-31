@@ -2,6 +2,14 @@
     "projects": [
         {
             "id": 1,
+            "name": "ConnectVerse",
+            "description": "Social platform to connect users.",
+            "github_url": "https://github.com/Osorabrian/Connectverse",
+            "image_url": "https://gcdnb.pbrd.co/images/Cf2lmO6D8QaF.png?o=1",
+            "website_url": "https://connectverse.vercel.app/"
+        },
+        {
+            "id": 2,
             "name": "Meme Generator",
             "description": "Create, View, Update and delete memes",
             "github_url": "https://github.com/Osorabrian/meme-generator-frontend",
@@ -9,7 +17,7 @@
             "website_url" : "https://meme-generator-frontend-nu.vercel.app/"
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "Movie Mania",
             "description": "View and search top and upcoming movies.",
             "github_url": "https://github.com/Osorabrian/movie_mania",
@@ -17,7 +25,7 @@
             "website_url" : "https://movie-mania-mu.vercel.app/"
         },
         {
-            "id": 3,
+            "id": 4,
             "name": "Super Hero API",
             "description": "An Api for super heroes and their powers.",
             "github_url": "https://github.com/Osorabrian/Super-Hero-API",
@@ -25,7 +33,7 @@
             "website_url" : "https://super-hero-api.onrender.com/heros"
         },
         {
-            "id": 4,
+            "id": 5,
             "name": "Movie Theatre",
             "description": "Book tickets to movie screening.",
             "github_url": "https://github.com/Osorabrian/Flatiron-Movie-Theatre",
@@ -33,7 +41,7 @@
             "website_url" : "https://flatiron-movie-theatre.vercel.app/"
         },
         {
-            "id": 5,
+            "id": 6,
             "name": "Bot Battlr",
             "description": "Enlist and delist robots for a game.",
             "github_url": "https://github.com/Osorabrian/bot_battlr",
@@ -41,7 +49,7 @@
             "website_url" : "https://bot-battlr-alpha.vercel.app/"
         },
         {
-            "id": 6,
+            "id": 7,
             "name": "Quik Health",
             "description": "Book appointment with a doctor.",
             "github_url": "https://github.com/Kombobill/phase-4-project",
@@ -49,7 +57,7 @@
             "website_url" : "https://hospitali.vercel.app/"
         },
         {
-            "id": 7,
+            "id": 8,
             "name": "Restaurant & Pizza API",
             "description": "API for restaurants and pizzas they sell.",
             "github_url": "https://github.com/Osorabrian/Restaurant-and-Pizza-API",
@@ -57,20 +65,12 @@
             "website_url" : "https://restaurant-and-pizza-api.onrender.com/restaurants"
         },
         {
-            "id": 8,
+            "id": 9,
             "name": "Todo App",
             "description": "Create, Read, Update and delete todos",
             "github_url": "https://github.com/Osorabrian/Todo-React-Frontend",
             "image_url": "https://gcdnb.pbrd.co/images/Cf2lmO6D8QaF.png?o=1",
             "website_url": "https://todo-react-frontend-sable.vercel.app/"
-        },
-        {
-            "id": 9,
-            "name": "ConnectVerse",
-            "description": "Social platform to connect users.",
-            "github_url": "https://github.com/Osorabrian/Connectverse",
-            "image_url": "https://gcdnb.pbrd.co/images/Cf2lmO6D8QaF.png?o=1",
-            "website_url": "https://connectverse.vercel.app/"
         }
     ]
 }
